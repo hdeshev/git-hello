@@ -13,5 +13,6 @@ func main() {
 	table.Append([]string{"pears", "30"})
 	table.Append([]string{"raspberries", "3"})
 	table.Append([]string{"plums", "5"})
+	table.Append([]string{"cherries", "2"})
 	table.Render()
 }
